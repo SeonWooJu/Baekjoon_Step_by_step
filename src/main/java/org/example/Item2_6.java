@@ -1,6 +1,8 @@
+package org.example;
+
 import java.util.Scanner;
 
-public class item2_6 {
+public class Item2_6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
